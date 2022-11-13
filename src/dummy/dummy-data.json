@@ -308,5 +308,219 @@
         {
             "title": "Vip"
         }
+    ],
+    "genres": [
+        {
+            "title": "Hành Động"
+        },
+        {
+            "title": "Phiêu Lưu"
+        },
+        {
+            "title": "Tâm Lý"
+        },
+        {
+            "title": "Hài"
+        },
+        {
+            "title": "Hoạt Hình"
+        },
+        {
+            "title": "Kinh Dị"
+        },
+        {
+            "title": "Hồi hộp"
+        },
+        {
+            "title": "Bí ẩn"
+        },
+        {
+            "title": "Tình cảm"
+        }
+    ],
+    "languages": [
+        {
+            "title": "Tiếng Anh"
+        },
+        {
+            "title": "Tiếng Hàn"
+        },
+        {
+            "title": "Tiếng Tây Ban Nha"
+        },
+        {
+            "title": "Tiếng Việt"
+        }
+    ],
+    "subtitles": [
+        {
+            "title": "Phụ đề Tiếng Việt"
+        },
+        {
+            "title": "Lồng tiếng Việt"
+        },
+        {
+            "title": "Phụ đề tiếng Anh"
+        }
+    ],
+    "rates": [
+        {
+            "code": "P",
+            "title": "PHIM DÀNH CHO MỌI ĐỐI TƯỢNG"
+        },
+        {
+            "code": "C13",
+            "title": "PHIM CẤM KHÁN GIẢ DƯỚI 13 TUỔI"
+        },
+        {
+            "code": "C16",
+            "title": "PHIM CẤM KHÁN GIẢ DƯỚI 16 TUỔI"
+        },
+        {
+            "code": "C18",
+            "title": "PHIM CẤM KHÁN GIẢ DƯỚI 18 TUỔI"
+        }
+    ],
+    "movies": [
+        {
+            "name": "CHIẾN BINH BÁO ĐEN 2: WAKANDA BẤT DIỆT",
+            "description": "Nữ hoàng Ramonda, Shuri, M’Baku, Okoye và Dora Milaje chiến đấu để bảo vệ quốc gia của họ khỏi sự can thiệp của các thế lực thế giới sau cái chết của Vua T’Challa. Khi người Wakanda cố gắng nắm bắt chương tiếp theo của họ, các anh hùng phải hợp tác với nhau với sự giúp đỡ của War Dog Nakia và Everett Ross và tạo ra một con đường mới cho vương quốc Wakanda.",
+            "trailer": "https://youtu.be/QTHEmyoKUyA",
+            "poster": "https://traffic-edge42.cdn.vncdn.io/cinema/img/78932043891215566-295463464_10160517026810625_2171846980038692295_n.jpg",
+            "director": "Ryan Coogler",
+            "cast": "Tenoch Huerta, Martin Freeman, Lupita Nyong'o",
+            "duration": 161,
+            "premiereDate": "2022-11-10 00:00:00",
+            "lang_id": 1,
+            "rate_id": 2
+        },
+        {
+            "name": "BLACK ADAM",
+            "description": "Dwayne Johnson sẽ góp mặt trong tác phẩm hành động - phiêu lưu mới của New Line Cinema, mang tên BLACK ADAM. Đây là bộ phim đầu tiên trên màn ảnh rộng khai thác câu chuyện của siêu anh hùng DC này, dưới sự sáng tạo của đạo diễn Jaume Collet-Serra (đạo diễn của Jungle Cruise). Gần 5.000 năm sau khi bị cầm tù với quyền năng tối thượng từ những vị thần cổ đại, Black Adam (Dwayne Johnson) sẽ được giải phóng khỏi nấm mồ chết chóc của mình, mang tới thế giới hiện đại một kiểu nhận thức về công lý hoàn toàn mới.",
+            "trailer": "https://youtu.be/Nv5Qt_nMRb8",
+            "poster": "https://traffic-edge14.cdn.vncdn.io/cinema/img/78933432958146482-poster_black_adam_1_.jpg",
+            "director": "Jaume Collet-Serra",
+            "cast": "Dwayne Johnson, Sarah Shahi, Pierce Brosnan, Noah Centineo, Aldis Hodge, Joseph Gatt, Natalie Burn, Quintessa Swindell,…",
+            "duration": 125,
+            "premiereDate": "2022-10-21 00:00:00",
+            "lang_id": 1,
+            "rate_id": 2
+        },
+        {
+            "name": "ĐẶC VỤ XUYÊN QUỐC GIA",
+            "description": "Câu chuyện phim ghi lại hành trình đặc vụ Triều Tiên Lim Cheol-ryung (Hyun Bin) quay trở lại Hàn Quốc để đánh sập một tổ chức tội phạm quốc tế tàn bạo, bí mật. Cùng lúc đó tại Hàn Quốc, Kang Jin-tae (Yoo Hai Jin) ở Đơn vị Tội phạm mạng đang khao khát trở lại đơn vị cũ thì được trao cho một nhiệm vụ đặc biệt với Cheol-ryung. Min-young (Lim Yoon A) cũng có cơ hội tiếp tục câu chuyện tình yêu “phát cuồng” dành cho Cheol-ryung. Jin-tae và Cheol-ryung cùng nhau làm việc dù vẫn còn nhiều nghi ngờ về động cơ của đối phương. Ngay khi bộ đôi chuẩn bị đột kích nơi ẩn náu của Jang Myung-jun (Jin Sun Kyu), thủ lĩnh của tổ chức tội phạm, thì đặc vụ FBI Jack (Daniel Henney) xông vào. Nhân tố mới này đã biến cuộc điều tra thành một cuộc điều tra quốc tế giữa 3 quốc gia, hứa hẹn nhiều tình tiết kịch tính và đầy bất ngờ.",
+            "trailer": "https://youtu.be/ErYFVOEtZw8",
+            "poster": "https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/c/a/ca-teaser-poster-vi-printing.jpg",
+            "director": "Lee Seok Hoon",
+            "cast": "Hyun Bin, Yoo Hai Jin, Lim Yoon A, Daniel Henney, Jin Sun Kyu",
+            "duration": 129,
+            "premiereDate": "2022-10-28 00:00:00",
+            "lang_id": 2,
+            "rate_id": 3
+        },
+        {
+            "name": "KHỈ CON LON TON THẾ GIỚI",
+            "description": "Khỉ Con luôn khát khao được chu du năm châu bốn bể và khám phá thế giới rộng lớn nhiệm màu. Nhưng vì không muốn con trai đối mặt với bất kỳ nguy hiểm nào, mẹ Khỉ Con không cho phép cậu thực hiện ước mơ đó. Một ngày nọ, nhà thám hiểm Ếch Bảnh ghé qua thị trấn nơi Khỉ Con đang sinh sống và cá cược với những cư dân nơi đây rằng mình có thể đi vòng quanh thế giới chỉ trong vòng 80 ngày. Một cách tình cờ, Khỉ Con trở thành người bạn đồng hành của Ếch Bảnh, cả hai đã cùng bắt đầu một cuộc phiêu lưu đầy bất ngờ nhưng cũng không kém phần thú vị.",
+            "trailer": "https://youtu.be/cjO84b-FOlI",
+            "poster": "https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/k/c/kclttg_-_main_poster_web_.jpg",
+            "director": "Samuel Tourneux",
+            "cast": null,
+            "duration": 82,
+            "premiereDate": "2022-11-11 00:00:00",
+            "lang_id": 1,
+            "rate_id": 1
+        },
+        {
+            "name": "LYLE CHÚ CÁ SẤU BIẾT HÁT",
+            "description": "Khi gia đình Primm chuyển đến thành phố New York, cậu con trai nhỏ Josh gặp khó khăn trong việc thích nghi với ngôi trường và những người bạn mới. Mọi thứ thay đổi khi cậu bé phát hiện ra ra Lyle - một chàng cá sấu mê tắm rửa, trứng cá muối và âm nhạc sống trên gác mái của của mình. Hai người nhanh chóng trở thành bạn bè. Thế nhưng, khi cuộc sống của Lyle bị ông hàng xóm Grumps đe dọa, gia đình Primm buộc phải kết hợp với ông chủ cũ của Lyle là Hector P. Valenti (Javier Bardem) để cho cả thế giới thấy giá trị tình thân và sự kỳ diệu của một chàng cá sấu biết hát.",
+            "trailer": "https://youtu.be/lKuVxwH119I",
+            "poster": "https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/m/_/m_su_t_s_m-lyke.jpg",
+            "director": "Will Speck, Josh Gordon",
+            "cast": "Shawn Mendes, Javier Bardem, Winslow Fegley, Constance Wu, Lyric Hurd, Brett Gelman, Scoot McNairy",
+            "duration": 102,
+            "premiereDate": "2022-11-04 00:00:00",
+            "lang_id": 1,
+            "rate_id": 1
+        },
+        {
+            "name": "LỜI NGUYỀN TẦM DA",
+            "description": "Để tìm cách chữa trị căn bệnh lạ cho em gái, cô bé 13 tuổi Nala phải cùng gia đình chuyển từ thành phố về miền quê và ở tạm trong ngôi nhà của bà ngoại… Trong thời gian ở cùng bà, Nala phát hiện ra người bà yêu dấu của mình dường như có gì đó rất mờ ám…",
+            "trailer": null,
+            "poster": "https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/l/n/lntd_poster_1_.jpg",
+            "director": "Isaac Ezban",
+            "cast": "Ofelia Medina, Paola Miguel, Samantha Castillo",
+            "duration": 95,
+            "premiereDate": "2022-11-04 00:00:00",
+            "lang_id": 3,
+            "rate_id": 4
+        }
+    ],
+    "movie_genres": [
+        {
+            "movie_id": 1,
+            "genre_id": 1
+        },
+        {
+            "movie_id": 1,
+            "genre_id": 2
+        },
+        {
+            "movie_id": 1,
+            "genre_id": 3
+        },
+        {
+            "movie_id": 2,
+            "genre_id": 4
+        },
+        {
+            "movie_id": 2,
+            "genre_id": 1
+        },
+        {
+            "movie_id": 3,
+            "genre_id": 5
+        },
+        {
+            "movie_id": 4,
+            "genre_id": 5
+        },
+        {
+            "movie_id": 5,
+            "genre_id": 6
+        }
+    ],
+    "movie_subs": [
+        {
+            "movie_id": 1,
+            "sub_id": 1
+        },
+        {
+            "movie_id": 2,
+            "sub_id": 1
+        },
+        {
+            "movie_id": 3,
+            "sub_id": 1
+        },
+        {
+            "movie_id": 4,
+            "sub_id": 2
+        },
+        {
+            "movie_id": 5,
+            "sub_id": 1
+        },
+        {
+            "movie_id": 5,
+            "sub_id": 2
+        },
+        {
+            "movie_id": 6,
+            "sub_id": 1
+        },
+        {
+            "movie_id": 6,
+            "sub_id": 3
+        }
     ]
 }
