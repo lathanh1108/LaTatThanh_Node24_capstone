@@ -1,0 +1,312 @@
+{
+    "cinema_chains": [
+        {
+            "name": "CGV Cinemas",
+            "logo": "https://static.mservice.io/placebrand/s/momo-upload-api-190709165424-636982880641515855.jpg"
+        },
+        {
+            "name": "Lotte Cinema",
+            "logo": "https://static.mservice.io/blogscontents/momo-upload-api-210604170617-637584231772974269.png"
+        },
+        {
+            "name": "Galaxy Cinema",
+            "logo": "https://static.mservice.io/cinema/momo-upload-api-211123095138-637732578984425272.png"
+        },
+        {
+            "name": "BHD Star",
+            "logo": "https://static.mservice.io/blogscontents/momo-upload-api-210604170453-637584230934981809.png"
+        }
+    ],
+    "cinemas": [
+        {
+            "name": "CGV Aeon Bình Tân",
+            "chain_id": 1
+        },
+        {
+            "name": "CGV Aeon Tân Phú",
+            "chain_id": 1
+        },
+        {
+            "name": "CGV Crescent Mall",
+            "chain_id": 1
+        },
+        {
+            "name": "CGV Giga Mall Thủ Đức",
+            "chain_id": 1
+        },
+        {
+            "name": "CGV Hoàng Văn Thụ",
+            "chain_id": 1
+        },
+        {
+            "name": "Lotte Cantavil",
+            "chain_id": 2
+        },
+        {
+            "name": "Lotte Cộng Hoà",
+            "chain_id": 2
+        },
+        {
+            "name": "Lotte Gò Vấp",
+            "chain_id": 2
+        },
+        {
+            "name": "Lotte Gold View",
+            "chain_id": 2
+        },
+        {
+            "name": "Galaxy Huỳnh Tấn Phát",
+            "chain_id": 3
+        },
+        {
+            "name": "Galaxy Kinh Dương Vương",
+            "chain_id": 3
+        },
+        {
+            "name": "Galaxy Linh Trung",
+            "chain_id": 3
+        },
+        {
+            "name": "Galaxy Nguyễn Du",
+            "chain_id": 3
+        },
+        {
+            "name": "Galaxy Nguyễn Văn Quá",
+            "chain_id": 3
+        },
+        {
+            "name": "BHD Star 3 tháng 2",
+            "chain_id": 4
+        },
+        {
+            "name": "BHD Star Bitexco",
+            "chain_id": 4
+        },
+        {
+            "name": "BHD Star Lê Văn Việt",
+            "chain_id": 4
+        }
+    ],
+    "rooms": [
+        {
+            "title": "Room 1",
+            "cinema_id": 1
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 1
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 1
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 2
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 2
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 3
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 3
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 4
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 4
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 5
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 5
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 5
+        },
+        {
+            "title": "Room 4",
+            "cinema_id": 5
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 6
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 6
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 6
+        },
+        {
+            "title": "Room 4",
+            "cinema_id": 6
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 7
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 7
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 7
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 8
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 8
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 8
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 9
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 9
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 10
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 10
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 10
+        },
+        {
+            "title": "Room 4",
+            "cinema_id": 10
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 11
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 11
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 11
+        },
+        {
+            "title": "Room 4",
+            "cinema_id": 11
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 12
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 12
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 12
+        },
+        {
+            "title": "Room 4",
+            "cinema_id": 12
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 13
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 13
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 13
+        },
+        {
+            "title": "Room 4",
+            "cinema_id": 13
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 14
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 14
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 14
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 15
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 15
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 15
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 16
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 16
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 16
+        },
+        {
+            "title": "Room 1",
+            "cinema_id": 17
+        },
+        {
+            "title": "Room 2",
+            "cinema_id": 17
+        },
+        {
+            "title": "Room 3",
+            "cinema_id": 17
+        }
+    ],
+    "seat_types": [
+        {
+            "title": "Normal"
+        },
+        {
+            "title": "Vip"
+        }
+    ]
+}
