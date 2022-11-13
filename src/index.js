@@ -4,6 +4,6 @@ const rootRouter = require('./routes/index');
 
 app.use(express.json());
 app.use(express.static('./public'));
-app.use('/api', rootRouter);
+app.use('/', rootRouter);
 
 app.listen(8080);

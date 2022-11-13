@@ -1,7 +1,7 @@
 const express = require('express');
 const rootRoute = express.Router();
-const { chainRoute } = require('./chainRoute');
+const apiRoute = require('./apiRoute');
 
-rootRoute.use('/chain', chainRoute);
+rootRoute.use('/api', apiRoute);
 
 module.exports = rootRoute;
