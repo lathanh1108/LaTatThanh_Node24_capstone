@@ -522,5 +522,43 @@
             "movie_id": 6,
             "sub_id": 3
         }
+    ],
+    "schedule_formats": [
+        {
+            "title": "2D"
+        },
+        {
+            "title": "3D"
+        }
+    ],
+    "prices": [
+        {
+            "format_id": 1,
+            "type_id": 1,
+            "price": 100000
+        },
+        {
+            "format_id": 2,
+            "type_id": 1,
+            "price": 140000
+        },
+        {
+            "format_id": 1,
+            "type_id": 2,
+            "price": 150000
+        },
+        {
+            "format_id": 2,
+            "type_id": 2,
+            "price": 170000
+        }
+    ],
+    "rules": [
+        {
+            "title": "User"
+        },
+        {
+            "title": "Admin"
+        }
     ]
 }
